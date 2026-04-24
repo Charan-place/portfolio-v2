@@ -44,7 +44,7 @@ body::before {
 }
 
 /* ── Gradient text ───────────────────────── */
-.grad { background: linear-gradient(135deg,#7c3aed 0%,#06b6d4 50%,#f59e0b 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+.grad { background: linear-gradient(135deg,#a78bfa 0%,#06b6d4 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
 .grad-white { background: linear-gradient(90deg,#fff 0%,rgba(255,255,255,0.55) 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
 
 /* ── Animations ──────────────────────────── */
